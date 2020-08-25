@@ -1,0 +1,15 @@
+#Respostas aula 1 - OO
+#Cainã Freitas  18-0078640
+
+1a) Cria um repositorio git
+1b) Clona um repositorio remoto
+1c) Cria um branch do repositorio para realizar alterações
+1d) Munda o branch que será utilizado
+1e) Adiciona arquivos de repositorios remotos para o local
+1f) Adiciona arquivos do repostitorio remotos para o diretorio de trabalho e para o repositorio local
+1g) Adiciona arquivos do diretorio de trabalho para o index
+1h) Adiciona do index para o repositorio local
+1i) Adiciona ao repositorio remoto o que existe no repositorio local
+
+
+2) No comando fetch não existe alteração no arquivo do repositorio de trabalho diferente do comando pull
